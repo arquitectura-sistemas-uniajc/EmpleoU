@@ -1,2 +1,2 @@
-# Gestor-documental
-Proyecto Gestor documental 
+# Proyecto EmpleoU 
+Arquitectura de Sistemas 
